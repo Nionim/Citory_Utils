@@ -11,18 +11,18 @@
         <th>ArchInstaller.sh
         <th><a href="https://raw.githubusercontent.com/Nionim/Citory_Utils/refs/heads/master/utils/linux/arch/installer.sh">RAW</a>
         <th><a href="./utils/linux/arch/installer.sh">URL</a>
-        <th align="left">Arch install script (Not a ArchInstall)
+        <th align="left">Arch install script with minimal configuration
     </tr>
     <tr>
         <th>discord-FIX.css
         <th><a href="https://github.com/Nionim/Citory_Utils/raw/refs/heads/master/utils/discord/themes/discord.fix.css">RAW</a>
         <th><a href="./utils/discord/themes/discord.fix.css">URL</a>
-        <th align="left">Discord theme without nitro and "apps" and quick reactions
+        <th align="left">Discord theme without some new buttons and Nitro AD
     </tr>
     <tr>
         <th>Win10Cion.reg
         <th><a href="https://raw.githubusercontent.com/Nionim/Citory_Utils/refs/heads/master/utils/windows/regs/win.10.cion.reg">RAW</a>
         <th><a href="./utils/windows/regs/win.10.cion.reg">URL</a>
-        <th align="left">My .reg file for Win10. Enable long patches, seconds on task-bar and normal music volume options. Also VLC started with hight priority
+        <th align="left">It`s my .reg file for Windows10 (Work on win11 too). <br>Enabling:<br> <i>long patches & seconds on clock & music stereo balance option & start VLC with hight priority.</i>
     </tr>
 </table>
