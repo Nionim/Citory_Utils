@@ -59,4 +59,7 @@
     </tr>
 </table>
 
-<h1 align="center">-== Love GMA ==-</h1>
+<p align="center">
+	<a href="https://t.me/LOWcitory" target="_blank">
+    	<img alt="yep", src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=31&pause=125&color=8518F7&center=true&vCenter=true&width=435&lines=%3E+%24+DeltaCion;%3E+I love GMA;%3E+Lmao;%3E+Just use it if u need;%3E+Bruh...;%3E+Try not die;%3B+...+so sad.."></a>
+</p>
