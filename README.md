@@ -57,6 +57,12 @@
         <th><a href="https://github.com/Delta-Factory/LowCitory">URL</a>
         <th align="left">Minecraft node scanner (:D)</i>
     </tr>
+    <tr>
+        <th>DiscordNuker
+        <th>---
+        <th><a href="https://github.com/TheVoid-KTS2k/DiscordNuker">URL</a>
+        <th align="left">Discord nuker. LOL</i>
+    </tr>
 </table>
 
 <p align="center">
