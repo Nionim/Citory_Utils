@@ -34,6 +34,12 @@
         <th align="left">Development kit by me and for me</i>
     </tr>
     <tr>
+        <th>RimworldModdingKit
+        <th>---
+        <th><a target="_blank" href="https://github.com/Delta-Factory/RimworldMK">URL</a>
+        <th align="left">Rimworld modding kit for IDE</i>
+    </tr>
+    <tr>
         <th>Webhooks
         <th>---
         <th><a href="https://github.com/Nionim/Webhooks">URL</a>
