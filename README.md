@@ -37,7 +37,7 @@
         <th>RimworldModdingKit
         <th>---
         <th><a target="_blank" href="https://github.com/Delta-Factory/RimworldMK">URL</a>
-        <th align="left">Rimworld modding kit for IDE</i>
+        <th align="left">Rimworld modding kit for Rover</i>
     </tr>
     <tr>
         <th>Webhooks
