@@ -69,6 +69,12 @@
         <th><a target="_blank" href="https://github.com/TheVoid-KTS2k/DiscordNuker">URL</a>
         <th align="left">Discord nuker. LOL</i>
     </tr>
+    <tr>
+        <th>MC Versions
+		<th><a target="_blank" href="https://gist.githubusercontent.com/Nionim/6017501c175705a59c961833a5b2efb6/raw/76f1b34cd284fbf52481ca132aeff79e213d4422/minecraft-server-jar-downloads.md">RAW</a>
+        <th><a target="_blank" href="https://gist.github.com/Nionim/6017501c175705a59c961833a5b2efb6">URL</a>
+        <th align="left">Minecraft jar urls (client & server)</i>
+    </tr>
 </table>
 
 <p align="center">
