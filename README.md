@@ -74,7 +74,7 @@
     <tr>
         <th>DiscordNuker
         <th>---
-        <th><a target="_blank" href="https://github.com/TheVoid-KTS2k/DiscordNuker">URL</a>
+        <th><a target="_blank" href="https://github.com/Delta-Factory/DiscordNuker">URL</a>
         <th align="left">Discord nuker. LOL</i>
     </tr>
     <tr>
